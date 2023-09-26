@@ -1,4 +1,4 @@
-- Main file:-  ETL_Mini_Project_Starter_Code_RMaji.ipynb contains all the code to clean up the Excel files and import into CSV ( Which been used for database creation). 
+- Main file:-  ETL_Project_2_Team_3.ipynb contains all the code to clean up the Excel files and import into CSV ( Which been used for database creation). 
 
 - Explanation:- Initially we extracted all the data from crowdfunding.xlsx
 Then, created a category and subcategory DataFrame that has the following columns:
